@@ -1,4 +1,4 @@
-# XCCanvas
+# WPT(Web Power Point)
 
 基于node.JS(Express) + Socket.IO的同屏展示程序
 作者：[木小草](http:www.muxiaocao.cn)
